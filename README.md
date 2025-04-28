@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Adventures of the Dark Sea*
 
-Submitted by: **Your Name Here**
+Submitted by: **Emily Leong**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Adventures of the Dark Sea** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* I changed the color of the background the game cards!
 
 ## Video Walkthrough
 
@@ -34,11 +34,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I got a bit confused of what the website was supposed to look like when it came to how the filtered games that were funded and unfunded were supposed to be shown on the screen. This lead to me trying to fix a problem that didn't need to be fixed. I also had some trouble understanding destructions, and the new javascript that was part of this prework.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Emily Leong
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
