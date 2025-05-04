@@ -4,7 +4,7 @@ Submitted by: **Emily Leong**
 
 **Adventures of the Dark Sea** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **5** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='web_102.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with zoom! I screen recorded myself walking through my app since licecap was cutting off my screen in a weird way. 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-I got a bit confused of what the website was supposed to look like when it came to how the filtered games that were funded and unfunded were supposed to be shown on the screen. This lead to me trying to fix a problem that didn't need to be fixed. I also had some trouble understanding destructions, and the new javascript that was part of this prework.
+I got a bit confused of what the website was supposed to look like when it came to how the filtered games that were funded and unfunded were supposed to be shown on the screen. This lead to me trying to fix a problem that didn't need to be fixed. I also had some trouble understanding some of the new javascript that was part of this prework.
 
 ## License
 
